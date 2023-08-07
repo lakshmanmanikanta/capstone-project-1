@@ -1,0 +1,736 @@
+.chanchalaa{
+	width: 98%;
+	height: 2500px;
+	background-color: pink;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url("../images/krishna1.jpg");
+	border:60px solid black;
+}
+*{
+	margin: 0px;
+	padding: 0;
+}
+.vin{
+     margin-top: 200px;
+     margin-bottom: 300px;
+	background-color: whitesmoke;
+	width: 5500px;
+	height: 300px;
+}
+.nice{
+  width: 900px;
+
+}
+.lo{
+	margin-top: 60px;
+	font-size: 200px;
+	margin-left: 200px;
+	color: grey;
+}
+
+
+.rama{
+	position: relative;
+	top: 1200px;
+	left: 200px;
+	color: darkorange;
+  font-size: 150px;
+}
+.janaki{
+	position: relative;
+	top: 1200px;
+	left: 200px;
+	color:yellowgreen;
+	font-size: 60px;
+}
+.sita{
+	background-color: transparent;
+	color: white;
+	cursor: pointer;
+	position: relative;
+	top: 1250px;
+	left: 200px;
+	width: 500px;
+	height: 80px;
+	border: 2px solid blue;
+	font-size: 50px;
+	border-radius: 20px;
+}
+.vijay{
+	 background-color: lightcyan;
+	 height:2900px;
+	 width: 100%;
+}
+.theri{
+	height: 1000px;
+	width: 1000px;
+	mix-blend-mode: darken;
+	position: relative;
+	top: 500px;
+	left: 800px;
+	bottom:200px ;
+	background-size: cover;
+}
+
+.loki{
+	position:!important;
+	right: 5000px;
+	font-size: 150px;
+    color:black;
+ margin-left: 3000px; 
+ margin-bottom: 200px; 
+}
+.karthi{
+	position: relative;
+	left:3000px;
+	bottom: 200px;
+	font-size: 50px;
+    color:black;
+}
+.varun{
+	position: relative;
+	left: 3000px;
+	bottom: 200px;
+	font-size: 50px;
+}
+.keeri{
+   	position: relative;
+	left: 3000px;
+	bottom: 200px;
+	font-size: 50px;
+   color: blue;
+   line-height: 85px;
+   font-family: impact;
+}
+.jadi{
+	background-color: #191970;
+	width: 1000px;
+	height: 700px;
+	position: relative;
+	top: 200px;
+	right: 550px;
+	float: right;
+	margin-right: 350px;
+	bottom: 300px;
+}
+.laki{
+	margin-left: 50px;
+	margin-top: 50px;
+}
+i{
+	color: white;
+	margin-bottom:200px;
+	font-size: 80px;
+}
+span{
+	position: relative;
+	left: 90px;
+	top:20px;
+	margin-left: 10px;
+	color: white;
+	font-size: 50px;
+	line-height: 140px;
+}
+.newyork{
+		width: 100%;
+	height: 2000px;
+	background-color: darkblue;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.nagaram{
+	height: 800px;
+	width: 50%;
+	float: left;
+}
+.kk{
+	width:5200px;
+	height: 10px;
+	border-style:2px solid white;
+}
+
+.daikin{
+    position: relative;
+    top:500px;
+    left:3px;
+	color: darkorange;
+	font-size: 150px;
+	font-family: fantasy;
+}
+.career{
+   position: relative;
+    top:600px;
+    left: 500px;
+	color: white;
+	font-size: 50px;
+  float: left;
+   line-height: 80px;
+}
+.mustang{
+	position: relative;
+    top:900px;
+    width: 400px;
+    height: 110px;
+    right: 900px;
+	color: white;
+	font-size: 50px;
+    float: left;
+   line-height: 80px;
+   color: white;
+   background-color: transparent;
+   border-color: orange;
+   border-radius: 20px;
+}
+.power{
+	height: 1200px;
+	width: 1500px;
+	mix-blend-mode:lighten;
+	position: relative;
+	top: 500px;
+	left: 500px;
+	bottom:200px ;
+	background-size: cover;
+	background-color: white;
+	border-radius: 90px;
+}
+.our{
+width: 100%;
+	height: 2600px;
+	background-color: whitesmoke;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.bigil{
+  color:cadetblue;
+  position: relative;
+  left:2500px;
+  top:150px;
+  font-size: 70px;
+  font-family:inherit;
+}
+.web{
+ color:darkblue;
+  position: relative;
+  left:1900px;
+  top:150px;
+  font-size: 150px;
+  font-family:inherit;
+  line-height: 200px;
+}
+.code{
+    width:100%px;
+	height:3500px;
+	background-color: whitesmoke;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	border:20px white white orange white;
+}
+.kkr{
+     width:1000px;
+     height: 1300px;
+    background-color: whitesmoke;
+    position: relative;
+    top:250px;
+    margin-left: 300px;
+    margin-top: 250px;
+    margin-bottom: 200px;
+  display: flex;
+ border-color: white white orange white;
+  border-width: 20px;
+  border-radius:20px;
+  border-style: solid;
+}
+.for{
+	color: darkblue;
+	font-size: 90px;
+  margin-left: 350px;
+}
+.kri{
+	color: black;
+	font-size: 40px;
+   line-height: 50px;
+  margin-left: 200px;
+  border:20px white white orange white;
+
+}
+.vara{
+	color: white;
+	background-color: orange;
+	font-size: 50px;
+	margin-left: 350px;
+	width: 300px;
+	border-radius: 20px;
+}
+
+.ppt{
+	width: 900px;
+	margin-left: 90px;	
+}
+.raju{
+  background-color: green;
+  width: 200px;
+  height: 200px;
+ 
+}
+.pip{
+	background-color: darkred;
+	width: 900px;
+	height: 1500px;
+	margin-left: 1;
+	display: flex;
+
+}
+
+
+
+
+
+.ttd{
+    width:1000px;
+  background-color:white;
+  height: 1300px;
+  margin-left: 800px;
+ margin-top: 2px;
+ border-color: white white orange white;
+  border-width: 20px;
+  border-radius:20px;
+  border-style: solid;
+
+}
+.ttd1{
+	width:1000px;
+	height: 700px;
+}
+.seo{
+  font-size: 80px;
+	color: blue;
+	margin-left: 100px;
+	margin-top: 70px;
+}
+.erer{
+	font-size:50px;
+	color: black;
+	margin-left: 100px;
+	margin-top: 70px;
+}
+.hanu{
+	width:1000px;
+	height:1300px;
+ background-color:white;
+ margin-left: 700px;
+ margin-top: 2px;
+ border-color: white white orange white;
+  border-width: 20px;
+  border-radius:20px;
+  border-style: solid;
+}
+.hum{
+  width: 1000px;
+  height: 700px;
+}
+.aya{
+	color:blue;
+	font-size: 70px;
+	margin-left: 200px;
+	margin-top: 90px;
+}
+.css{
+	color:black;
+	font-size: 50px;
+	margin-left: 100px;
+	margin-top: 60px;
+}
+.qwe{
+width: 1500px;
+height: 700px;
+background-color: green;
+
+}
+
+
+
+.boy3{
+   width: 1000px;
+   height: 1300px;
+    background-color: green;
+   border:4px solid red;
+   
+}
+.plan{
+ width:100%;
+	height:3000px;
+	background-color: darkblue;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.imd{
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+}
+.deg{
+   position: relative;
+   top:600px;
+   left: 540px;
+mix-blend-mode:normal;
+	background-size: cover;
+	width: 1000px;
+	background-color: transparent;
+	border:30px solid yellow;
+    border-radius: 50%;
+    height: 800px;
+max-width: 700px;
+	display: flex;
+}
+h1{
+   position: relative;
+  left: 400px;
+  top:800px;
+  font-size: 150px;
+  color: white;
+}
+.pavan{
+	color: white;
+	margin-left: 400px;
+	margin-top: 900px;
+	font-size: 100px;
+}
+.dow{
+	color: white;
+	background-color: orange;
+	font-size: 200px;
+	border-radius: 50%;
+	margin-left: 700px;
+	position: relative;
+    top: 190px;
+}
+
+
+
+
+
+.descri{
+position: relative;
+   top:600px;
+   left: 940px;
+mix-blend-mode:normal;
+	background-size: cover;
+	width: 1000px;
+	background-color: transparent;
+	border:30px solid yellow;
+    border-radius:px;
+    height: 800px;
+max-width: 700px;
+	display: flex;	
+}
+.nana{
+   color: orange;
+   position: relative;
+   left: 600px;
+   top:5px;
+}
+.amma{
+	color:darkorange;
+	font-size: 200px;
+}
+.anna{
+	color: white;
+	font-size: 100px;
+	margin-top: 850px;
+}
+.thalap{
+	background-color: whitesmoke;
+	width:100%;
+	height: 2000px;
+}
+.akk{
+	color: orange;
+	margin-left: 1900px;
+	top: 200px;
+	text-decoration-style: wavy;
+	text-decoration-color: orange;
+	text-decoration-line: underline;
+	line-height: 20px;
+}
+.akk::before{
+	con
+}
+
+
+
+.prii{
+	display: flex;
+	padding: 0 100px;
+	
+}
+
+
+.box1{
+	height: 800px;
+	width: 900px;
+	background-color: white;
+	margin-top: 700px;
+	margin-left: 500px;
+	border-style:solid;
+border-color: white white orange white;
+  border-width: 20px;
+  border-radius:20px;
+	
+}
+.dog{
+font-size: 50px;
+line-height: 80px;
+margin-left: 100px;
+margin-top: 50px;
+}
+.dog:first-letter{
+  color:orchid;
+}
+.box2{
+	height: 800px;
+	width: 900px;
+	background-color: white;
+	margin-top: 700px;
+	margin-left: 500px;
+	border-style:solid;
+	border-color: white white orange white;
+  border-width: 20px;
+  border-radius:20px;
+}
+.cat{
+font-size: 50px;
+line-height: 80px;
+margin-left: 100px;
+margin-top: 50px;
+}
+.cat:first-letter{
+  color:orchid;
+}
+.jh{
+	color: green;
+
+}
+
+
+
+
+
+.box3{
+		height: 800px;
+	width: 900px;
+	background-color:white;
+	margin-top: 700px;
+	margin-left: 500px;
+   border-style:solid;
+	border-color: white white orange white;
+  border-width: 20px;
+  border-radius:20px;
+
+}
+.chi{
+	width: 100%;
+	height: 200px;
+	background-color:whitesmoke;
+}
+.jh{
+	background-color: transparent;
+	color: black;
+	cursor: pointer;
+    margin-top:100px;
+	margin-left:2200px;
+	width: 500px;
+	height: 100px;
+	border: 2px solid orange;
+	font-size: 50px;
+	border-radius: 20px; 
+}
+.pni{
+	background-color: darkblue;
+	width: 100%;
+	height: 4000px;
+}
+
+
+.lolo{
+	color:orange;
+	position: relative;
+	top: 200px;
+	left: 1900px;
+}
+.olol{
+	color: white;
+	font-size: 80px;
+	margin-top: 300px;
+	margin-left: 900px;
+}
+.box11{
+    width: 300px;
+    height: 200px;
+}
+.big{
+	width: 750px;
+	height: 1500;
+}
+.gh{
+
+	display: flex;
+		padding: 0 100px;
+		margin-left: 1200px;
+		margin-top: 200px;
+		}
+.box11{
+	width: 900px;
+	height: 1500px;
+	background-color: green;
+}
+.box112{
+	width: 900px;
+	height: 1500px;
+	background-color:greenyellow;
+
+
+}
+.small{
+	width: 900px;
+	height: 1500px;
+	background-color: red;
+}
+.box113{
+	width: 900px;
+	height: 1500px;
+}
+.dd{
+	width: 900px;
+	height: 1500px;
+	background-color: green;
+}
+.box114{
+	width: 900px;
+	height: 1500px;
+}
+.piy{
+	display: flex;
+
+}
+.nam{
+	width: 1200px;
+	height: 1800px;
+	background-color: white;
+   margin-left: 1300px;
+   margin-top:200px ;
+   border:2px solid black;
+}
+.car{
+	color: black;
+	font-size: 50px;
+    margin-left: 100px;
+    margin-top: 200px;
+}
+.bike{
+  color:orange;
+  font-size: 100px;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.hit{
+  font-size: 60px;
+ color: black;
+ margin-top: 100px;
+ margin-left: 100px;
+
+}
+.con{
+	width: 1400px;
+	height: 1800px;
+	background-color:white;
+   margin-left: 100px;
+   margin-top:200px ;
+   border:2px solid black;
+}
+.lion{
+	color: orange;
+	text-decoration-line:underline;
+	font-size: 70px;
+    margin-left: 100px;
+    margin-top:50px;
+}
+.om{
+	color: orange;
+	font-size: 110px;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+.logo{
+	background-color: darkblue;
+	width: 300px;
+	margin-left: 100px;
+}
+.billa{
+	color: black;
+	font-size: 40px;
+	margin-left: 100px;
+}
+.ice{
+	font-size: 150px;
+	color: orange;
+	position: relative;
+	margin-left: 100px;
+	margin-top: 150px;
+}
+.label
+{
+	font-size: 90px;
+	margin-left: 200px;
+}
+.re{
+	margin-left: 250px;
+	width: 1000px;
+	height: 100px;
+	font-size: 50px;
+}
+.er{
+	margin-left: 250px;
+	width: 1000px;
+	height: 100px;
+	font-size: 50px;
+}
+.labe{
+	margin-left: 250px;
+	width: 1000px;
+	height: 100px;
+	font-size: 150px;
+}
+.op{
+	font-size: 150px;
+	margin-left: 220px;
+	margin-top: 100px;
+	width: 1000px;
+	background-color: orange;
+	border-radius: 20px;
+}
+.dt{
+	background-color: darkblue;
+    width: 100%;
+    height: 700px;
+}
+.df{
+	font-size: 90px;
+	margin-left: 1300px;
+	margin-top: 200px;
+    position: relative;
+    top: 150px;
+}
+.oi{
+	font-size: 90px;
+	margin-left: 1300px;
+	margin-top: 200px;
+    position: relative;
+    top: 150px;
+    color: white;
+}
+a{
+	color: purple;
+}
+
